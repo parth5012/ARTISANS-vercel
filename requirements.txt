@@ -1,0 +1,10 @@
+flask
+Werkzeug
+huggingface-hub
+gunicorn
+google-genai
+python-dotenv
+Flask-PyMongo 
+dnspython
+
+
